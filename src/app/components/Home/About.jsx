@@ -108,7 +108,7 @@ const AboutSection = () => {
                     Hisar Medical Diagnostic & Hospitals LLP
                   </h3>
                   <p className="text-white/90 text-sm mt-1">
-                    Serving Hisar and surrounding villages since 2013
+                    Serving hisar and surrounding villages around since 1983
                   </p>
                 </div>
               </div>
